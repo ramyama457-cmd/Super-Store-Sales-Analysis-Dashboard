@@ -11,7 +11,7 @@ Interactive Tableau dashboard analyzing Superstore sales performance with key me
 - *Interactive filters* for dynamic exploration
 
 ## 📁 Files Included
-- Superstore_Sales_Analysis.twbx - Main Tableau packaged workbook
+- Superstore_Sales_Analysis.twb- Main Tableau packaged workbook
 - SUperStore Sale Analysis.pdf- Dashboard 
 - Additional chart screenshots
 
